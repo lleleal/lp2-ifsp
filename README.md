@@ -1,5 +1,5 @@
 # LP2 IFSP
-ib:
+ib: @mat-afk
 
 Repositório para organizar os códigos da disciplina de Linguagem de Programação 2.
 
