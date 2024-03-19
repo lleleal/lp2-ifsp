@@ -1,4 +1,5 @@
 # LP2 IFSP
+ib:
 
 Repositório para organizar os códigos da disciplina de Linguagem de Programação 2.
 
@@ -9,14 +10,14 @@ Repositório para organizar os códigos da disciplina de Linguagem de Programaç
 1 - Configurar o usuário local do git
 
 ```bash
-git config --global user.name "Mateus Cruzatto"
-git config --global user.email "mateusc.ramos@outlook.com"
+git config --global user.name "Leticia Brandão"
+git config --global user.email "leal.b@aluno.ifsp.edu.br"
 ```
 
 2 - Fazer o clone do seu repositório no GitHub
 
 ```bash
-git clone https://github.com/mat-afk/lp2-ifsp.git
+git clone https://github.com/lleleal/lp2-ifsp.git
 ```
 
 3 - Abrir o repo no VSCode
